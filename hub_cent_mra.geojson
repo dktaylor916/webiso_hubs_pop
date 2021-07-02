@@ -1,0 +1,740 @@
+{
+  "type": "FeatureCollection",
+  "name": "hub_cent_mra",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "windrichti": "Noord",
+        "naam": "De Vurige Staart",
+        "info over": "Parkeerterrein tussen Jaagweg en Verzetslaan (N235)",
+        "ns station": "Ja",
+        "y": 52.497893959509113,
+        "x": 4.9354733066172223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.935473307953149, 52.497893963736516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "windrichti": "Noord",
+        "naam": "`T Schouw",
+        "info over": "Werkterrein nabij kruispunt N235/N247",
+        "ns station": null,
+        "y": null,
+        "x": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "windrichti": "Noord",
+        "naam": "Baanstee",
+        "info over": "evt. verplaatsing treinstation Overwhere. Zoeklocatie Purmerend Noord",
+        "ns station": "Nee",
+        "y": 52.520363322003888,
+        "x": 4.9918598078918341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.991859809285017, 52.520363326243981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "windrichti": "Noord",
+        "naam": "Coentunnel",
+        "info over": "Combi regiohub en parkeren op achterstand Achtersluispolder, ter vervanging op LT van Vlinder P+R",
+        "ns station": "Nee",
+        "y": 52.43109588000577,
+        "x": 4.8655764863029516
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.865576487565956, 52.431095884194541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "windrichti": "Noord",
+        "naam": "NS Krommenie-Assendelft",
+        "info over": "combi met NS Wormerveer, en A9 afrit Uitgeest",
+        "ns station": "Ja",
+        "y": 52.495189695141406,
+        "x": 4.7555967187733899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.75559671992989, 52.495189699367764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "windrichti": "Noord",
+        "naam": "Station Uitgeest",
+        "info over": "combi met Krommenie, en A9 afrit Uitgeest",
+        "ns station": "Ja",
+        "y": 52.522042931003064,
+        "x": 4.7027669563498504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.702766957455085, 52.522042935244933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "windrichti": "Noordwest",
+        "naam": "NS Heemstede-Aerdenhout",
+        "info over": "veel gebruikt",
+        "ns station": "Ja",
+        "y": 52.359567928704294,
+        "x": 4.6075340093502843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.607534010352033, 52.359567932850922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "windrichti": "Noordwest",
+        "naam": "De Wijde Blik. Verkeerscentrale IJmuiden",
+        "info over": "doorgaande buslijnen naar Amsterdam",
+        "ns station": null,
+        "y": null,
+        "x": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "windrichti": "Noordwest",
+        "naam": "Sloterdijk",
+        "info over": "combi met Hornweg",
+        "ns station": "Ja",
+        "y": 52.389191859577423,
+        "x": 4.8392742461167861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.839274247351491, 52.389191863741608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "windrichti": null,
+        "naam": "Halfweg-Zwanenbrug",
+        "info over": null,
+        "ns station": "Ja",
+        "y": 52.386102730087863,
+        "x": 4.7465499012196677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.746549902361621, 52.386102734250358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "windrichti": null,
+        "naam": "Haarlem Spaarnwoude",
+        "info over": null,
+        "ns station": "Ja",
+        "y": 52.383086107051717,
+        "x": 4.6733036013580378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.673303602426696, 52.383086111212393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "windrichti": "Noordwest",
+        "naam": "P+R Spaarne Gasthuis Hoofddorp",
+        "info over": "westzijde aan Zuidtangent, risico langparkeren Schiphol",
+        "ns station": "Nee",
+        "y": 52.324315504436896,
+        "x": 4.6564539429403924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.656453943989178, 52.324315508562712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "windrichti": "Noordwest",
+        "naam": "Haarlem noord",
+        "info over": "Delftplein/ziekenhuis Spaarne gasthuis noord",
+        "ns station": "Ja",
+        "y": 52.388171261984546,
+        "x": 4.6391917039260724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.639191704960938, 52.388171266148184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "windrichti": "Zuid",
+        "naam": "Amstelveen: BTAZ (Bedrijventerrein Amstelveen Zuid, ten noorden van de N201)",
+        "info over": "Voor ontwikkeling van BTAZ en de OV-bereikbaarheid hiervan is een tramhalte gewenst/noodzakelijk. De tramhalte geeft ook kansen om een regionale P+R/hub te realiseren, overstap auto-Amsteltram, voor bezoekers die vanuit de zuidkant van de VRA noordwaarts",
+        "ns station": "Nee",
+        "y": 52.261078084020951,
+        "x": 4.83068523318404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.830685234403914, 52.261078088108725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "windrichti": "Zuid",
+        "naam": "A2/Stramanweg",
+        "info over": "bushalte voor het dorp en afrit A2",
+        "ns station": "Nee",
+        "y": 52.307711396012543,
+        "x": 4.9257704511610862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.925770452478324, 52.307711400128007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "windrichti": "Zuid",
+        "naam": "Holendrecht",
+        "info over": "in combi met AMC Holendrecht >plaatsgebrek",
+        "ns station": "Nee",
+        "y": 52.294847431796768,
+        "x": 4.9608058184825881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.960805819834266, 52.294847435904366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "windrichti": "Zuid",
+        "naam": "NS Breukelen",
+        "info over": "wil uitbreiden tot meerlaags gebouw, initiatief samen met Zuidasdok",
+        "ns station": "Ja",
+        "y": 52.170275176035702,
+        "x": 4.9917289882901441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.99172898966704, 52.170275180067819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "windrichti": "Zuidwest",
+        "naam": "Badhoevedorp-West",
+        "info over": "Nieuwe woongebieden met OV en met voorzieningen, bij afrit A9 evt. combi met eindhalte tramlijn 1",
+        "ns station": "Nee",
+        "y": 52.343690717898703,
+        "x": 4.7602289172308403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.760228918384323, 52.343690722036065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "windrichti": "zuidwest",
+        "naam": "NS NieuwVennep",
+        "info over": "met Getsewoud combineren",
+        "ns station": "Ja",
+        "y": 52.259503367533206,
+        "x": 4.6481838717766104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.648183872813773, 52.259503371620113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "windrichti": "zuidwest",
+        "naam": "P+R Hoofddorp Zuid STP",
+        "info over": "Doortrekken NZL naar Schiphol Trade Park ten zuiden van Hoofddorp Station",
+        "ns station": "Nee",
+        "y": 52.284416832744313,
+        "x": 4.7037531054286097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.703753106522639, 52.284416836846248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "windrichti": "zuidwest",
+        "naam": "P+R Knooppunt Schiphol Noord",
+        "info over": "P+R bij Knooppunt voor R-net en Schipholnet en Metro",
+        "ns station": "Nee",
+        "y": 52.322744996605181,
+        "x": 4.7938594118071238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.793859412993183, 52.322745000730045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "windrichti": "zuidwest",
+        "naam": "De Hoek",
+        "info over": "bushalte N201 bovenop A4, herontwikkeling, nader te bepalen",
+        "ns station": "Nee",
+        "y": 52.290561410570085,
+        "x": 4.7209276799502939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.720927681061815, 52.290561414675757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "windrichti": "Oost",
+        "naam": "P+R Lelystad centrum",
+        "info over": "nabij station",
+        "ns station": "Ja",
+        "y": 52.508267637171443,
+        "x": 5.4749165235817783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.474916525455662, 52.508267641398746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "windrichti": "Oost",
+        "naam": "P+R Lelystad zuid",
+        "info over": "Potentiële stationsontwikkeling afhankelijk van AIRPORT",
+        "ns station": "Ja",
+        "y": 52.486603297954375,
+        "x": 5.4690231159652081
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.469023117832403, 52.486603302169335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "windrichti": "Zuidoost",
+        "naam": "Muiden",
+        "info over": "P+R",
+        "ns station": "Nee",
+        "y": 52.330651736994959,
+        "x": 5.0413039763431122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.041303977776934, 52.330651741123425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "windrichti": null,
+        "naam": "P+R Noord",
+        "info over": null,
+        "ns station": null,
+        "y": 52.404788921056891,
+        "x": 4.9344185076401859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.934418508970649, 52.40478892522988]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "windrichti": null,
+        "naam": "P+R Zeeburg",
+        "info over": null,
+        "ns station": null,
+        "y": 52.370816771414553,
+        "x": 4.9629621653638258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.9629621667212, 52.370816775567391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "windrichti": null,
+        "naam": "Muiderpoort",
+        "info over": null,
+        "ns station": "Ja",
+        "y": 52.360700994683469,
+        "x": 4.9303056757355543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.930305677059827, 52.360700998830474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "windrichti": null,
+        "naam": "Zaandijk",
+        "info over": null,
+        "ns station": null,
+        "y": 52.470910580445121,
+        "x": 4.8516997461516063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.851699747402708, 52.470910584657162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "windrichti": null,
+        "naam": "Zaandstad-Koog",
+        "info over": null,
+        "ns station": null,
+        "y": 52.46659411538382,
+        "x": 4.7969088010082741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.796908802204523, 52.466594119593488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "windrichti": null,
+        "naam": "Zaandam Provincialeweg",
+        "info over": null,
+        "ns station": null,
+        "y": 52.441712651299483,
+        "x": 4.8128166754117361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.812816676622615, 52.441712655494591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "windrichti": null,
+        "naam": "Oostzaan",
+        "info over": null,
+        "ns station": null,
+        "y": 52.431991461629288,
+        "x": 4.8679772049517682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.867977206217213, 52.431991465818562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "windrichti": null,
+        "naam": "Bijlmer Arena",
+        "info over": null,
+        "ns station": null,
+        "y": 52.314031731692566,
+        "x": 4.9411533070085722
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.941153308341491, 52.314031735811739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "windrichti": null,
+        "naam": "Sloterplas",
+        "info over": null,
+        "ns station": "Ja",
+        "y": 52.359043171981419,
+        "x": 4.8372583200235342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.837258321254753, 52.359043176127763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "windrichti": null,
+        "naam": "Weesp",
+        "info over": null,
+        "ns station": "Ja",
+        "y": 52.313131826700946,
+        "x": 5.0479071760673042
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.047907177506938, 52.313131830818946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "windrichti": null,
+        "naam": "Aalsmeer",
+        "info over": null,
+        "ns station": null,
+        "y": 52.263620758214614,
+        "x": 4.7949020640834084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.794902065267595, 52.263620762304029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "windrichti": null,
+        "naam": "Getsewoud",
+        "info over": null,
+        "ns station": null,
+        "y": 52.264860713107048,
+        "x": 4.5949868507804581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.594986851764678, 52.264860717197081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "windrichti": null,
+        "naam": "Hilversum Sportpark",
+        "info over": null,
+        "ns station": "Ja",
+        "y": 52.216565467863482,
+        "x": 5.1876056581662198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.187605659741421, 52.216565471922138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "windrichti": null,
+        "naam": "Bussum",
+        "info over": null,
+        "ns station": null,
+        "y": 52.266292261838323,
+        "x": 5.1678246573231341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.167824658880664, 52.266292265927191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "windrichti": null,
+        "naam": "Craillo",
+        "info over": null,
+        "ns station": null,
+        "y": 52.268695991704362,
+        "x": 5.2021962223153659
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.202196223907389, 52.268695995794296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "windrichti": null,
+        "naam": "Huizen",
+        "info over": null,
+        "ns station": null,
+        "y": 52.29907011705,
+        "x": 5.2442783810811822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.24427838271658, 52.299070121157669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "windrichti": null,
+        "naam": "Almere Poort",
+        "info over": null,
+        "ns station": null,
+        "y": 52.330891524026882,
+        "x": 5.1528579798043364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.152857981349685, 52.330891528154531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "windrichti": null,
+        "naam": "Almere Haven",
+        "info over": null,
+        "ns station": null,
+        "y": 52.354322550434979,
+        "x": 5.2132259128401763
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.213225914446859, 52.354322554575916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "windrichti": null,
+        "naam": "Almere Pampus",
+        "info over": null,
+        "ns station": null,
+        "y": 52.376705007031561,
+        "x": 5.1750186968100476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.175018698379521, 52.376705011186196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "windrichti": null,
+        "naam": "Almere Buiten",
+        "info over": null,
+        "ns station": null,
+        "y": 52.39465762741483,
+        "x": 5.2856285363670041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.285628538047682, 52.39465763157876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "windrichti": null,
+        "naam": "Oosterwold Noord",
+        "info over": null,
+        "ns station": null,
+        "y": 52.374532271346688,
+        "x": 5.2926256594498478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.292625661136682, 52.374532275498645]
+      }
+    }
+  ]
+}
